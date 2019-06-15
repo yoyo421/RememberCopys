@@ -1,0 +1,15 @@
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\bin\Release\RememberCopys.exe.config
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\bin\Release\RememberCopys.exe
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\bin\Release\RememberCopys.pdb
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\MainWindow.g.cs
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\App.g.cs
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\RememberCopys_MarkupCompile.cache
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\RememberCopys_MarkupCompile.lref
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\MainWindow.baml
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\RememberCopys.g.resources
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\RememberCopys.Properties.Resources.resources
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\RememberCopys.csproj.GenerateResource.cache
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\RememberCopys.csproj.CoreCompileInputs.cache
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\RememberCopys.exe
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\RememberCopys.pdb
+C:\Users\Yoav-PC\source\repos\RememberCopys\RememberCopys\obj\Release\RememberCopys.csprojAssemblyReference.cache
